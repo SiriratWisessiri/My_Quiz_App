@@ -18,7 +18,7 @@ To demonstrat the knowledge of HTML, CSS, Bootstrap and JavaScript.
 ## To Improve
 
 - More questions can be store in qustion bank.
-- Queston to shuffle and display randomly one reset. 
+- Question to shuffle and display randomly one reset. 
 
 
 ## Authors
